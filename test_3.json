@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Senate Approves Major Clean Energy Funding Bill",
+    "content": "The U.S. Senate passed a $500 billion bill today aimed at accelerating solar and wind infrastructure across rural America, signaling strong bipartisan support.",
+    "label": 1
+  },
+  {
+    "title": "Study Finds Daily Meditation Extends Lifespan by 20 Years",
+    "content": "A controversial new study claims practicing meditation daily can extend human life expectancy by two decades—but peer reviewers urge skepticism due to weak data.",
+    "label": 0
+  },
+  {
+    "title": "Researchers Discover Water on Jupiter’s Moon Europa",
+    "content": "NASA’s Europa Clipper has detected extensive subsurface liquid water on Europa—boosting hopes for microbial life.",
+    "label": 1
+  },
+  {
+    "title": "Global Elites Planning Digital Currency to Track Spending",
+    "content": "According to an anonymous source, global financial institutions are secretly rolling out a digital currency that will allow governments to monitor every transaction.",
+    "label": 0
+  },
+  {
+    "title": "Major Tech Firm Acquires AI Startup to Combat Climate Change",
+    "content": "Google has finalized its acquisition of GreenMind AI, a startup focused on using machine learning to optimize carbon capture technology.",
+    "label": 1
+  },
+  {
+    "title": "5G Causes Brain Cancer, Claim Ignored by WHO",
+    "content": "A blog post argues that 5G radiation is linked to brain tumors, but critics say the World Health Organization has buried the evidence.",
+    "label": 0
+  },
+  {
+    "title": "Historic Peace Treaty Signed in Middle East After Decades",
+    "content": "Two long-standing adversaries in the Middle East signed a landmark peace treaty today, ending decades of conflict and opening borders.",
+    "label": 1
+  },
+  {
+    "title": "Vaccines Secretly Contain Microchips, Insider Reveals",
+    "content": "An unverified whistleblower claims common vaccines have hidden microchips to control human behavior—but no evidence has been presented.",
+    "label": 0
+  },
+  {
+    "title": "Stock Market Hits Record High on Strong Jobs Report",
+    "content": "U.S. stock indexes surged to new highs following better-than-expected jobs data and rising consumer confidence.",
+    "label": 1
+  },
+  {
+    "title": "Hollywood Actor Arrested for Alien Communication",
+    "content": "A conspiracy site reports that Tom Harris was detained after allegedly communicating with extraterrestrials during a secret moon trip.",
+    "label": 0
+  },
+  {
+    "title": "Breakthrough in Cancer Research Promises New Treatment",
+    "content": "Scientists at MIT announced a breakthrough CAR-T therapy that shows 95% remission rate in early-stage clinical trials.",
+    "label": 1
+  },
+  {
+    "title": "Government Using Weather Control to Manipulate Elections",
+    "content": "A viral video suggests certain governments are using cloud-seeding technology to influence voter turnout—but no credible sources confirm.",
+    "label": 0
+  },
+  {
+    "title": "New Species of Dinosaur Found in Argentina",
+    "content": "Paleontologists in Patagonia have unearthed fossils of a previously unknown herbivorous dinosaur dating to the Late Cretaceous.",
+    "label": 1
+  },
+  {
+    "title": "Secret NASA Mission Teleported Astronauts to Mars",
+    "content": "A fringe science blog claims NASA has already teleported humans to Mars using classified quantum technology.",
+    "label": 0
+  },
+  {
+    "title": "International Summit on Cybersecurity to Begin Next Week",
+    "content": "Over 50 nations will convene in Geneva next week to discuss joint measures against global cyber threats.",
+    "label": 1
+  },
+  {
+    "title": "Celebrity Caught Time Traveling in Vintage Photos",
+    "content": "An influencer posted old photos that supposedly show Billie Harper in 1920s Paris, hinting at time travel—but experts say it's photoshopped.",
+    "label": 0
+  },
+  {
+    "title": "Major Oil Spill Contained Within 48 Hours, Govt Reports",
+    "content": "Authorities say a spill in the Gulf has been completely contained due to rapid deployment of new barrier technology.",
+    "label": 1
+  },
+  {
+    "title": "Hidden Pyramid Found Under Antarctica Ice Sheet",
+    "content": "A rogue exploration group claims satellite imagery reveals an ancient pyramid buried under Antarctic ice.",
+    "label": 0
+  },
+  {
+    "title": "UN Launches Global Education Fund for Developing Nations",
+    "content": "The United Nations announced a new $10 billion fund aimed at providing universal primary education in low-income countries.",
+    "label": 1
+  },
+  {
+    "title": "Mind-Reading Headsets to Be Available by 2023, Insiders Say",
+    "content": "Tech rumor sites say companies are preparing headsets that can read users' thoughts—but there is no prototype evidence.",
+    "label": 0
+  },
+  {
+    "title": "Major Breakthrough in Fusion Energy Achieved",
+    "content": "Scientists at the UK’s Culham Centre report achieving net-positive energy gain in a new experimental reactor.",
+    "label": 1
+  },
+  {
+    "title": "Hot Pepper Cure for Alzheimer’s, Viral Study Claims",
+    "content": "A viral paper claims capsaicin from hot peppers cures Alzheimer’s, but other researchers cite insufficient data.",
+    "label": 0
+  },
+  {
+    "title": "UNICEF Declares Malaria Vaccine Rollout a Success",
+    "content": "UNICEF reports over 1 million children vaccinated in pilot African nations, with a 60% reduction in cases.",
+    "label": 1
+  },
+  {
+    "title": "Atlantis Found Using Sonar Near Azores Islands",
+    "content": "A sensationalist blog claims sonar detected a lost city near the Azores—they show blurry underwater shapes.",
+    "label": 0
+  },
+  {
+    "title": "International Space Station Crew Returns Safely After Six-Month Mission",
+    "content": "Crew aboard the ISS landed today after completing a six-month mission studying microgravity effects on human health.",
+    "label": 1
+  },
+  {
+    "title": "300-Year-Old Witch’s Spellbook Discovered in Europe",
+    "content": "A photo of a dusty grimoire sparked rumors of a real witch’s spellbook—but historians say it’s a theatrical prop.",
+    "label": 0
+  }
+]
